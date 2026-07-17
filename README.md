@@ -59,47 +59,8 @@ Mission     : Write code that solves real problems.
 
 🟢 Building AI Powered Applications
 
-Frontend
 
-React
-
-Next.js
-
-JavaScript
-
-Tailwind
-
-Backend
-
-Node
-
-Express
-
-REST API
-
-Database
-
-MongoDB
-
-MySQL
-
-Prisma
-
-Cloud
-
-AWS
-
-Vercel
-
-Tools
-
-Git
-
-GitHub
-
-Postman
-
-VS Code
+[![My Skills](https://skillicons.dev/icons?i=Reactjs,JavaScript,NodeJS,Expressjs,HTML5,CSS3,Java,MongoDB,MySQL,AWS,GitHub,Postman,VScode&theme=light)](https://skillicons.dev)
 
 
 GitHub Stats
@@ -109,42 +70,6 @@ Contribution Streak
 Most Used Languages
 
 Activity Graph
-
-AI Chat Application
-
-Stack
-
-React
-
-Node
-
-MongoDB
-
-OpenAI
-
-Express
-
-ImageKit
-
-✔ Authentication
-
-✔ Chat History
-
-✔ Image Upload
-
-✔ Dark Mode
-
-Llama2
-
-LangChain
-
-FAISS
-
-Streamlit
-
-RAG
-
-Semantic Search
 
 ## 💭 My Coding Philosophy
 
