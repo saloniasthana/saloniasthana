@@ -1,5 +1,3 @@
-Hi 👋 I'm Saloni
-
 <h1 align="center">
 
 Hi, I'm Saloni Asthana 👋
@@ -15,7 +13,7 @@ Building products that solve real-world problems.
 </h3>
 
 
-<p align="center">
+<p align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;MERN+Developer;Building+Scalable+Applications;AI+%26+Generative+AI;Always+Learning+Something+New..." />
 
