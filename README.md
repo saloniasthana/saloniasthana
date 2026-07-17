@@ -1,15 +1,5 @@
 Hi 👋 I'm Saloni
 
-═══════════════════════════════════════
-
-      INITIALIZING DEVELOPER PROFILE...
-
-      ███████████████████ 100%
-
-      Welcome Recruiter 👋
-
-═══════════════════════════════════════
-
 <h1 align="center">
 
 Hi, I'm Saloni Asthana 👋
@@ -18,11 +8,12 @@ Hi, I'm Saloni Asthana 👋
 
 <h3 align="center">
 
-Full Stack Developer • Backend Engineer • AI Enthusiast
+Software Engineer • Backend Engineer • AI Enthusiast
 
 Building products that solve real-world problems.
 
 </h3>
+
 
 <p align="center">
 
@@ -46,6 +37,11 @@ Passion     : Building scalable applications
 
 Mission     : Write code that solves real problems.
 
+<h2>💻 Languages and Tools</h2>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman,docker,aws,vercel&perline=10" />
+</p>
 
 ## 🚀 Current Status
 
@@ -60,170 +56,32 @@ Mission     : Write code that solves real problems.
 🟢 Building AI Powered Applications
 
 
-[![My Skills](https://skillicons.dev/icons?i=Reactjs,JavaScript,NodeJS,Expressjs,HTML5,CSS3,Java,MongoDB,MySQL,AWS,GitHub,Postman,VScode&theme=light)](https://skillicons.dev)
+<h2 align="left">🤝 Let's Connect</h2>
 
+<p align="left">
 
-GitHub Stats
+<a href="https://www.linkedin.com/in/saloni-asthana-ba672a228/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Contribution Streak
+<a href="mailto:saloniasthana01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Most Used Languages
+<a href="https://github.com/saloniasthana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Activity Graph
+<a href="https://leetcode.com/u/Saloni244/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-## 💭 My Coding Philosophy
+<a href="https://myportfolio244.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
 
-while(alive){
+</p>
 
-    Learn();
 
-    Build();
 
-    Break();
 
-    Debug();
-
-    Repeat();
-
-}
-
-> whoami
-
-Saloni Asthana
-
-> current_role
-
-Software Engineer
-
-> tech_stack
-
-React
-Node
-MongoDB
-Express
-
-> hobbies
-
-Coffee ☕
-
-Photography 📸
-
-Open Source ❤️
-
-Problem Solving
-
-> exit
-
-Thanks for visiting 👋
-
-2024
-
-Research Intern
-
-IIIT Allahabad
-
-↓
-
-2025
-
-Backend Developer
-
-CDAC Mohali
-
-↓
-
-2026
-
-Software Engineer
-
-VahanHelp
-
-↓
-
-Future
-
-Building Products Used by Millions 🚀
-
-Let's Build Something Amazing Together
-
-LinkedIn - https://www.linkedin.com/in/saloni-asthana-ba672a228/
-
-Portfolio - https://myportfolio244.netlify.app/
-
-Email - saloniasthana01@gmail.com
-
-LeetCode - https://leetcode.com/u/Saloni244/
-
-GitHub - https://github.com/saloniasthana
-
-
-🐍 Snake eating contributions
-
-Contribution Heatmap
-
-Developers Visited
-
-
-Animated Typing Banner
-
-↓
-
-Developer Dashboard
-
-↓
-
-About Me
-
-↓
-
-Current Status
-
-↓
-
-Tech Arsenal
-
-↓
-
-GitHub Stats
-
-↓
-
-Contribution Streak
-
-↓
-
-Activity Graph
-
-↓
-
-Featured Projects
-
-↓
-
-Developer Journey
-
-↓
-
-Coding Philosophy
-
-↓
-
-Terminal
-
-↓
-
-Recruiter Section
-
-↓
-
-Connect
-
-↓
-
-Snake Animation
-
-↓
-
-Footer
-
-15,642
